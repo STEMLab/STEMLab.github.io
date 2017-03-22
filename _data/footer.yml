@@ -1,0 +1,14 @@
+# Footer navigation links
+
+- title: Home
+  url: /
+
+- title: Professor
+  url: /getting-started/
+
+- title: Members
+  url: /articles/
+  
+- title: Projects
+  url: /media/
+  

@@ -1,0 +1,20 @@
+# Site navigation links
+
+- title: Professor
+  url: /getting-started/
+  excerpt: "Ki-Joune Li"
+  image: professor.jpg
+  id: professor
+
+- title: Members
+  url: /articles/
+  excerpt: "STEM Labarotory members."
+  image: team.gif
+  id: members
+
+- title: Projects
+  url: /media/
+  excerpt: "Accomplished and 'in progress' projects"
+  image: project.jpg
+  id: projects
+  
