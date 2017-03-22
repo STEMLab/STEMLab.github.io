@@ -1,19 +1,19 @@
 # Site navigation links
 
 - title: Professor
-  url: /getting-started/
+  url: /professor/
   excerpt: "Ki-Joune Li"
   image: professor.jpg
   id: professor
 
 - title: Members
-  url: /articles/
+  url: /members/
   excerpt: "STEM Labarotory members."
   image: team.gif
   id: members
 
 - title: Projects
-  url: /media/
+  url: /projects/
   excerpt: "Accomplished and 'in progress' projects"
   image: project.jpg
   id: projects
