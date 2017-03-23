@@ -12,6 +12,6 @@ image:
   creditlink: 
 ---
 
-This is a sample post 
+This is a sample text 
 
-## Let's do this!
+## Let's do this normal!

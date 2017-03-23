@@ -12,6 +12,6 @@ image:
   creditlink: 
 ---
 
-This is a sample this project post 
+This is a sample text 
 
-### Let's add some info!
+### Let's add some normal text!
