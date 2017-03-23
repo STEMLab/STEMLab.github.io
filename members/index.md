@@ -14,22 +14,24 @@ image:
 {% for post in site.categories.members %}
 	<div class="tile">
 		<table>
-			<tr>
 				{% if post.image.teaser %}
-				<td>
+				<tr>
+				<td align="center">
 					<a href="{{ site.url }}{{ post.url }}">
-					<img src="{{ site.url }}/images/{{ post.image.teaser }}" alt="teaser" itemprop="image">
+					<div style="height: 130px; width: 200px; overflow: hidden;"><img src="{{ site.url }}/images/{{ post.image.teaser }}" alt="teaser" itemprop="image"></div>
 					</a>
 				</td>
+				</tr>
 				{% else %}
-				<td>
+				<tr>
+				<td align="center">
 					<a href="{{ site.url }}{{ post.url }}">
-						<img src="{{ site.url }}/images/{{ site.teaser }}" alt="teaser" itemprop="image">
+						<div style="height: 130px; width: 200px; overflow: hidden;"><img src="{{ site.url }}/images/{{ site.teaser }}" alt="teaser" itemprop="image"></div>
 					</a>
 				</td>
+				</tr>
 				{% endif %}
-				<td>{% include post-grid.html %}</td>
-			</tr>
+				<tr><td align="center">{% include post-grid.html %}</td></tr>
 		</table>
 	</div>
 {% endfor %}
