@@ -14,7 +14,7 @@ image:
   (such as object-oriented, spatial, temporal), 
   data streams, as well as related applications (service-oriented computing,
   e-government, complex data management and so forth). Provide workplace for PhD candidates,master degree students and affiliated researchers that specialize on areas relevant to the laboratory's interests.<br/>
- <i>It is temporal text must be changed</i>
+ <i>It is my temporal text must be changed</i>
   </p>
 </div><!-- /.tile -->
 </div><!-- /.tiles -->
