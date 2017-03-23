@@ -13,7 +13,7 @@ image_id: professor.jpg
 share: false
 ---
 
-<img src="{{ site.url }}/images/{{ page.image_id }}" alt="{{ page.title }}">
+<img src="{{ site.baseurl }}/images/{{ page.image_id }}" alt="{{ page.title }}">
 
 **Position:** Professor, Department of Computer Science and Engineering <br/>
 **Degrees:** Ph.D (INSA de Lyon France) , M.Sc and B.Sc (Seoul National University)

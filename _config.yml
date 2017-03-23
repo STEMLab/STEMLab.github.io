@@ -5,9 +5,10 @@ description: "Spatial Temporal Databases Labaratory site"
 logo: 120x120.gif
 teaser: 400x250.gif
 locale: en_US
-url: ""
+url: "https://bolatuly.github.io/stemlab/"
 feed:
   path: atom.xml
+
 
 # Jekyll configuration
 
