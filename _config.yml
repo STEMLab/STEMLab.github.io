@@ -5,7 +5,7 @@ description: "Spatial Temporal Databases Labaratory site"
 logo: 120x120.gif
 teaser: 400x250.gif
 locale: en_US
-url: "https://bolatuly.github.io/stemlab"
+url: "https://stemlab.github.io/"
 feed:
   path: atom.xml
 
