@@ -17,14 +17,14 @@ image:
 			<tr>
 				{% if post.image.teaser %}
 				<td>
-					<a href="{{ site.baseurl }}{{ post.url }}">
-					<img src="{{ site.baseurl }}/images/{{ post.image.teaser }}" alt="teaser" itemprop="image">
+					<a href="{{ site.url }}{{ post.url }}">
+					<img src="{{ site.url }}/images/{{ post.image.teaser }}" alt="teaser" itemprop="image">
 					</a>
 				</td>
 				{% else %}
 				<td>
-					<a href="{{ site.baseurl }}{{ post.url }}">
-						<img src="{{ site.baseurl }}/images/{{ site.teaser }}" alt="teaser" itemprop="image">
+					<a href="{{ site.url }}{{ post.url }}">
+						<img src="{{ site.url }}/images/{{ site.teaser }}" alt="teaser" itemprop="image">
 					</a>
 				</td>
 				{% endif %}
