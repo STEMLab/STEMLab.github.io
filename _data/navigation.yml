@@ -1,10 +1,10 @@
 # Site navigation links
 
-- title: Professor
-  url: /professor/
-  excerpt: "Ki-Joune Li"
-  image: professor.jpg
-  id: professor
+#- title: Professor
+ # url: /professor/
+  #excerpt: "Ki-Joune Li"
+ # image: professor.jpg
+ # id: professor
 
 - title: Members
   url: /members/

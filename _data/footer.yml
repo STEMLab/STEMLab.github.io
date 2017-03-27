@@ -3,8 +3,8 @@
 - title: Home
   url: /
 
-- title: Professor
-  url: /professor/
+#- title: Professor
+#  url: /professor/
 
 - title: Members
   url: /members/
