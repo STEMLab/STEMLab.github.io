@@ -5,7 +5,8 @@ description: "Spatial Temporal Databases Labaratory site"
 logo: 120x120.gif
 teaser: 400x250.gif
 locale: en_US
-url: "https://stemlab.github.io"
+url: ""
+base_url: ""
 feed:
   path: atom.xml
 
@@ -31,11 +32,11 @@ owner:
   web: ""
   twitter: ""
   bio: "Bla bla bla."
-  avatar: 
+  avatar:
   google:
-    plus: 
-    ad-client: 
-    ad-slot: 
+    plus:
+    ad-client:
+    ad-slot:
   disqus-shortname:
 
 
