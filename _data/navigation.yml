@@ -18,3 +18,9 @@
   image: project.jpg
   id: projects
   
+- title: Contacts
+  url: /contacts/
+  excerpt: 
+  image: contactus.png
+  id: contacts
+  
