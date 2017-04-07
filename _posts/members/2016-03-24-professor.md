@@ -13,7 +13,9 @@ image:
 <div><img style="width: 45%; height: 30%" src="{{ site.url }}/images/{{ page.image.feature }}" alt="professor_feature" ></div>
 
 **Position:** Professor, Department of Computer Science and Engineering <br/>
-**Degrees:** Ph.D (INSA de Lyon France) , M.Sc and B.Sc (Seoul National University)
+**Degrees:** Ph.D (INSA de Lyon France) , M.Sc and B.Sc (Seoul National University) <br/>
+**Profile page:** <a href="http://lik.pusan.ac.kr/">http://lik.pusan.ac.kr/</a> <br/>
+
 
 {% include toc.html %}
 
