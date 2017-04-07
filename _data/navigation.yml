@@ -18,6 +18,12 @@
   image: project.jpg
   id: projects
   
+- title: Lectures
+  url: http://stem.cs.pusan.ac.kr/
+  excerpt: 
+  image: lectures.jpg
+  id: lectures
+  
 - title: Contacts
   url: /contacts/
   excerpt: 
