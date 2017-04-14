@@ -1,7 +1,7 @@
 # Site wide configuration
 
 title: "STEMLab"
-description: "Spatial Temporal Databases Labaratory site"
+description: "Spatio Temporal Databases Laboratory site"
 logo: 120x120.gif
 teaser: 400x250.gif
 locale: en_US
@@ -28,7 +28,7 @@ gems:
 
 # Site owner
 owner:
-  name: "StemLab"
+  name: "STEMLab"
   web: ""
   twitter: ""
   bio: "Bla bla bla."
