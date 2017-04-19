@@ -1,6 +1,6 @@
 ---
 layout: media
-title: " Indoor Spatial Awareness (2007 ~ )"
+title: "Clarification of Standard Requirements for Ubiquitous Public Accesses (2009 ~ )"
 categories: project
 excerpt: ""
 ads: false
