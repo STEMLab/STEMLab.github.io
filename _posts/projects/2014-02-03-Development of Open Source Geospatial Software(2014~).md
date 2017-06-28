@@ -1,6 +1,6 @@
 ---
 layout: media
-title: " Indoor Spatial Awareness (2007 ~ )"
+title: "Development of Open Source Geospatial Software(2014~)"
 categories: project
 excerpt: ""
 ads: false

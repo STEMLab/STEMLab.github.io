@@ -8,7 +8,7 @@ image:
 <div class="tiles row-fluid">
 
 <div>
-  <h2 class="post-title">Our Labaratory</h2>
+  <h2 class="post-title">Our Laboratory</h2>
   <p class="post-excerpt">
   Develops research activities in state-of-the-art areas related to software systems and databases, information representation and management, databases with special features 
   (such as object-oriented, spatial, temporal), 

@@ -10,8 +10,30 @@ image:
   teaser:
 ---
 
-<div class="tiles">
-{% for post in site.categories.project %}
-  {% include post-grid-project.html %}
-{% endfor %}
-</div><!-- /.tiles -->
+<div class="archive-wrap">
+      <article class="tile"><h2>In progress</h2></article>
+</div><!-- /.archive-wrap -->
+
+<div class="archive-wrap">
+  <div class="page-content">
+  <div class="tiles">
+  {% for post in site.categories.project %}
+    {% include post-grid-project.html %}
+  {% endfor %}
+  </div><!-- /.tiles -->
+  </div><!-- /.page-content -->
+</div><!-- /.archive-wrap -->
+
+<div class="archive-wrap">
+      <article class="tile"><h2>Accomplished</h2></article>
+</div><!-- /.archive-wrap -->
+
+<div class="archive-wrap">
+  <div class="page-content">
+  <div class="tiles">
+  {% for post in site.categories.project_old %}
+    {% include post-grid-project.html %}
+  {% endfor %}
+  </div><!-- /.tiles -->
+  </div><!-- /.page-content -->
+</div><!-- /.archive-wrap -->

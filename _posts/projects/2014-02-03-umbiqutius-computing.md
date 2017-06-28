@@ -1,6 +1,6 @@
 ---
 layout: media
-title: " Indoor Spatial Awareness (2007 ~ )"
+title: "Context Stream Management Systems for Ubiquitous Computing Software Platform (2008 ~ )"
 categories: project
 excerpt: ""
 ads: false

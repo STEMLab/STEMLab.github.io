@@ -1,7 +1,7 @@
 ---
 layout: media
-title: " Indoor Spatial Awareness (2007 ~ )"
-categories: project
+title: "Geo-Morphological Simplication of 2.5D Field Data(STAR)"
+categories: project_old
 excerpt: ""
 ads: false
 share: false
