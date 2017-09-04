@@ -18,6 +18,12 @@
   image: project.jpg
   id: projects
   
+- title: Publications
+  url: /publications/
+  excerpt: "Our publications"
+  image: publications.jpg
+  id: publications
+  
 - title: Lectures
   url: http://lik.pusan.ac.kr/
   excerpt: 
