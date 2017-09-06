@@ -7,13 +7,13 @@ layout: default
         width: 100%;
        }
 </style>
-<script src="{{ site.url }}/js/vendor/jquery-1.9.1.min.js"></script>
+<script src="{{ site.baseurl }}/js/vendor/jquery-1.9.1.min.js"></script>
 <script src="https://maps.googleapis.com/maps/api/js?sensor=false&key=AIzaSyBmVcmijL4cA-4N92g8N7iGfmMmWqup0o8"></script>
 <script async defer
     src="https://maps.googleapis.com/maps/api/js?key=AIzaSyBmVcmijL4cA-4N92g8N7iGfmMmWqup0o8&callback=initMap">
     </script>
 <script type="text/javascript">
-	
+
 	function initMap() {
         var lab = {lat: 35.235043, lng: 129.082645};
         var map = new google.maps.Map(document.getElementById('map'), {
@@ -25,10 +25,10 @@ layout: default
           map: map
         });
       }
-	
+
 </script>
 
-<div id="main" role="main">			
+<div id="main" role="main">
 	<div class="wrap">
 		<div class="page-title">
 			<h1>{{ page.title }}</h1>
