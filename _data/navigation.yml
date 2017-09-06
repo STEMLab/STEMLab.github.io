@@ -7,19 +7,19 @@
  # id: professor
 
 - title: Members
-  url: /members/
+  url: /stemlab/members/
   excerpt: "STEM Labarotory members."
   image: team.gif
   id: members
 
 - title: Projects
-  url: /projects/
+  url: /stemlab/projects/
   excerpt: "Accomplished and 'in progress' projects"
   image: project.jpg
   id: projects
   
 - title: Publications
-  url: /publications/
+  url: /stemlab/publications/
   excerpt: "Our publications"
   image: publications.jpg
   id: publications
@@ -31,7 +31,7 @@
   id: lectures
   
 - title: Contacts
-  url: /contacts/
+  url: /stemlab/contacts/
   excerpt: 
   image: contactus.png
   id: contacts
