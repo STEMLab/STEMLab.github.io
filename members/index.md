@@ -5,9 +5,9 @@ date: 2014-05-30T11:39:03-04:00
 modified:
 excerpt: "Spatio-Temporal Databases Laboratory Members."
 tags: []
-image: 
+image:
   feature:
-  teaser: 
+  teaser:
 ---
 
 <div class="tiles">
@@ -18,7 +18,7 @@ image:
 				<tr>
 				<td align="center">
 					<a href="{{ site.url }}{{ post.url }}">
-					<div style="height: 130px; width: 200px; overflow: hidden;"><img src="{{ site.url }}/images/{{ post.image.teaser }}" alt="teaser" itemprop="image"></div>
+					<div style="height: 130px; width: 200px; overflow: hidden;"><img src="{{ site.baseurl }}/images/{{ post.image.teaser }}" alt="teaser" itemprop="image"></div>
 					</a>
 				</td>
 				</tr>
