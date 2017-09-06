@@ -17,7 +17,7 @@ image:
 				{% if post.image.teaser %}
 				<tr>
 				<td align="center">
-					<a href="{{ site.url }}{{ post.url }}">
+					<a href="{{ site.baseurl }}{{ post.url }}">
 					<div style="height: 130px; width: 200px; overflow: hidden;"><img src="{{ site.baseurl }}/images/{{ post.image.teaser }}" alt="teaser" itemprop="image"></div>
 					</a>
 				</td>
@@ -25,8 +25,8 @@ image:
 				{% else %}
 				<tr>
 				<td align="center">
-					<a href="{{ site.url }}{{ post.url }}">
-						<div style="height: 130px; width: 200px; overflow: hidden;"><img src="{{ site.url }}/images/{{ site.teaser }}" alt="teaser" itemprop="image"></div>
+					<a href="{{ site.baseurl }}{{ post.url }}">
+						<div style="height: 130px; width: 200px; overflow: hidden;"><img src="{{ site.baseurl }}/images/{{ site.teaser }}" alt="teaser" itemprop="image"></div>
 					</a>
 				</td>
 				</tr>
