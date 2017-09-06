@@ -6,7 +6,7 @@ logo: 120x120.gif
 teaser: 400x250.gif
 locale: en_US
 url: ""
-base_url: ""
+base_url: "/web"
 feed:
   path: atom.xml
 
