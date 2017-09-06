@@ -5,12 +5,12 @@ categories: members
 excerpt: "Professor"
 tags: [sample, images, test]
 ads: false
-image: 
-  feature: professor_feature.jpg 
+image:
+  feature: professor_feature.jpg
   teaser: professor_teaser.jpg
 ---
 
-<div><img style="width: 45%; height: 30%" src="{{ site.url }}/images/{{ page.image.feature }}" alt="professor_feature" ></div>
+<div><img style="width: 45%; height: 30%" src="{{ site.baseurl }}/images/{{ page.image.feature }}" alt="professor_feature" ></div>
 
 **Position:** Professor, Department of Computer Science and Engineering <br/>
 **Degrees:** Ph.D (INSA de Lyon France) , M.Sc and B.Sc (Seoul National University) <br/>
@@ -85,5 +85,3 @@ E-mail : lik at pnu.edu <br/>
 * President Award for the Contributions on GIS (2005)
 * ISO/TC211 Member (2006 – present)
 * ISO Project 19154 Project Leader (2008 - 2010)
-
-
