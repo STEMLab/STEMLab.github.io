@@ -40,5 +40,5 @@ Here are setting steps.
 
 jekyll build
 ----------------------------
-1. sudo bundle exec jekyll build -d '/home/stem--isel/server/web' --baseurl '/web'
-  #warnning : if you build at destination, the content of dest will be removed all and newly put build result.
+1. after git pull, go to the local directory : /home/stem--isel/stemlab.github.io
+2. execute shell script file as this : sudo sh homepage_build.sh
