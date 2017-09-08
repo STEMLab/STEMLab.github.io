@@ -9,21 +9,17 @@ image:
   feature:
   teaser:
 ---
-
-{% assign posts = "publication1,
-					publication2, 
-						publication3
-						"| split: ',' %}
-
 <div class="archive-wrap">
 	<div class="page-content">
 		<div class="tiles">
-			{% for post in posts %}
-				<article class="tile" itemscope itemtype="http://schema.org/Article">
-					<h2 class="post-title" itemprop="name">{{ post }}</h2>
-				</article>
+			{% for post in site.categories.publications %}
+        {% assign items = post.content | newline_to_br | split: '<br />' %}
+        {% for item in items %}
+  				<article itemtype="http://schema.org/Article">
+  					<h2 class="post-title" itemprop="name">{{ item }}</h2>
+  				</article>
+        {% endfor %}
 			{% endfor %}
 		</div><!-- /.tiles -->
 	</div><!-- /.page-content -->
 </div><!-- /.archive-wrap -->
-
