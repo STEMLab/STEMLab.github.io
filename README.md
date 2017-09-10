@@ -6,7 +6,7 @@ ruby version is now managed by rbenv. So after clone this, if environment doesn'
 
 1. cd $HOME
 2. sudo apt-get remove ruby
-3. sudo apt-get update 
+3. sudo apt-get update
 4. sudo apt-get install git-core curl zlib1g-dev build-essential libssl-dev libreadline-dev libyaml-dev libsqlite3-dev sqlite3 libxml2-dev libxslt1-dev libcurl4-openssl-dev python-software-properties libffi-dev
 5. git clone https://github.com/rbenv/rbenv.git ~/.rbenv
 6. echo 'export PATH="$HOME/.rbenv/bin:$PATH"' >> ~/.bashrc
@@ -19,7 +19,7 @@ ruby version is now managed by rbenv. So after clone this, if environment doesn'
 13. rbenv global 2.3.1
 14. ruby -v
 
-  Reference for upper steps : 
+  Reference for upper steps :
   https://stackoverflow.com/questions/37720892/you-dont-have-write-permissions-for-the-var-lib-gems-2-3-0-directory
 
 Setting environment

@@ -1,5 +1,5 @@
 ---
-layout: archive
+layout: publication
 title: "PUBLICATIONS"
 date: 2014-05-30T11:40:45-04:00
 modified:

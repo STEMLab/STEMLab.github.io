@@ -3,7 +3,18 @@ GEM
   specs:
     addressable (2.5.1)
       public_suffix (~> 2.0, >= 2.0.2)
+    bibtex-ruby (4.4.4)
+      latex-decode (~> 0.0)
+    citeproc (1.0.5)
+      namae (~> 0.8)
+    citeproc-ruby (1.1.7)
+      citeproc (>= 1.0.4, < 2.0)
+      csl (~> 1.4)
     colorator (1.1.0)
+    csl (1.4.5)
+      namae (~> 0.7)
+    csl-styles (1.0.1.8)
+      csl (~> 1.0)
     faraday (0.11.0)
       multipart-post (>= 1.2, < 3)
     ffi (1.9.18)
@@ -26,17 +37,25 @@ GEM
       octokit (~> 4.2)
     jekyll-sass-converter (1.5.0)
       sass (~> 3.4)
+    jekyll-scholar (5.10.2)
+      bibtex-ruby (~> 4.0, >= 4.0.13)
+      citeproc-ruby (~> 1.0)
+      csl-styles (~> 1.0)
+      jekyll (~> 3.0)
     jekyll-sitemap (1.0.0)
       jekyll (~> 3.3)
     jekyll-watch (1.5.0)
       listen (~> 3.0, < 3.1)
     kramdown (1.13.2)
+    latex-decode (0.2.2)
+      unicode (~> 0.4)
     liquid (3.0.6)
     listen (3.0.8)
       rb-fsevent (~> 0.9, >= 0.9.4)
       rb-inotify (~> 0.9, >= 0.9.7)
     mercenary (0.3.6)
     multipart-post (2.0.0)
+    namae (0.11.3)
     octokit (4.6.2)
       sawyer (~> 0.8.0, >= 0.5.3)
     pathutil (0.14.0)
@@ -51,6 +70,7 @@ GEM
     sawyer (0.8.1)
       addressable (>= 2.3.5, < 2.6)
       faraday (~> 0.8, < 1.0)
+    unicode (0.4.4.4)
 
 PLATFORMS
   ruby
@@ -60,7 +80,8 @@ DEPENDENCIES
   jekyll
   jekyll-feed
   jekyll-gist
+  jekyll-scholar
   jekyll-sitemap
 
 BUNDLED WITH
-   1.14.6
+   1.15.4
