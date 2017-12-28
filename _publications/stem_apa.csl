@@ -206,11 +206,12 @@
     </choose>
   </macro>
   <macro name="title">
-     <choose>
+    <choose>
       <if type="book dataset graphic manuscript motion_picture report song speech thesis" match="any">
         <choose>
           <if variable="version" type="book" match="all">
-            <text variable="title" />
+            <!---This is a hack until we have a computer program type -->
+            <text variable="title"/>
           </if>
           <else>
             <text variable="title" font-style="italic"/>
@@ -221,7 +222,7 @@
         <choose>
           <if variable="reviewed-title">
             <group delimiter=" ">
-              <text variable="title" />
+              <text variable="title"/>
               <group delimiter=", " prefix="[" suffix="]">
                 <text variable="reviewed-title" font-style="italic" prefix="Review of "/>
                 <names variable="reviewed-author" delimiter=", ">
@@ -232,6 +233,7 @@
             </group>
           </if>
           <else>
+            <!-- assume `title` is title of reviewed work -->
             <group delimiter=", " prefix="[" suffix="]">
               <text variable="title" font-style="italic" prefix="Review of "/>
               <names variable="reviewed-author" delimiter=", ">
@@ -251,7 +253,7 @@
     </choose>
   </macro>
   <macro name="title-plus-extra">
-    <text macro="title" font-weight="bold"/>
+    <text macro="title"/>
     <choose>
       <if type="report thesis" match="any">
         <group prefix=" (" suffix=")" delimiter=", ">
@@ -577,7 +579,7 @@
             </if>
           </choose>
           <group delimiter=", ">
-            <text macro="container-contributors"/>
+            <!-- <text macro="container-contributors"/> -->
             <text macro="secondary-contributors"/>
             <text macro="container-title"/>
           </group>
@@ -699,9 +701,9 @@
     <layout>
       <group suffix=".">
         <group delimiter=". ">
-          <text macro="author"/>
+           <text macro="author"/>
           <text macro="issued"/>
-          <text macro="title-plus-extra"/>
+           <text macro="title-plus-extra" font-weight="bold"/>
           <text macro="container"/>
         </group>
         <text macro="legal-cites"/>
@@ -711,7 +713,7 @@
           <text macro="publisher"/>
         </group>
       </group>
-      <!-- <text macro="access" prefix=" "/> -->
+       <!-- <text macro="access" prefix=" "/> -->
       <text macro="original-date" prefix=" "/>
     </layout>
   </bibliography>
