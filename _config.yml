@@ -44,7 +44,7 @@ owner:
 
 # Scholar settings
 scholar:
-  style: apa
+  style: /_publications/stem_apa.csl
   locale: en
 
   sort_by: year

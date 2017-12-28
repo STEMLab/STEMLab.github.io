@@ -7,4 +7,8 @@ layout: with-sidebar
   <h2>{{ cYear }}</h2>
     {% capture year %}{{cYear}}{% endcapture %}
 {% endif %}
-<p> {{ reference }} </p>
+<p>{{ reference }}
+    {% if entry.doi %}
+        <a href= "https://doi.org/{{ entry.doi }}" style="color:gray"> [link]</a>
+    {% endif %}
+</p>
