@@ -42,8 +42,11 @@ image:
 	
 		
 {% endfor %}
+</div><!-- /.tiles -->
 
-<h3> Graduated Student </h3>
+
+<div class="tiles">
+</br> </br> <h3> Graduated Student </h3>
 {% assign grad = site.categories.graduated %}
 {% for post in grad %}
 <div class="tile">
