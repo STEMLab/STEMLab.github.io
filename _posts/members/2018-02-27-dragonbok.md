@@ -7,8 +7,8 @@ excerpt: "Master Student"
 tags: [sample, images, test]
 ads: false
 image:
-  feature: dragonbok_feature.jpg
-  teaser: dragonbok_teaser.jpg
+  feature: yongbok_feature.jpg
+  teaser: yongbok_teaser.jpg
 ---
 
 <div><img style="width: 45%; height: 30%" src="{{ site.baseurl }}/images/{{ page.image.feature }}" alt="feature" ></div>

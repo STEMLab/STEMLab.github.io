@@ -43,7 +43,6 @@ image:
 		
 {% endfor %}
 </div><!-- /.tiles -->
-      <article class="tile"><h2>Accomplished</h2></article>
 </div><!-- /.archive-wrap -->
 
 
