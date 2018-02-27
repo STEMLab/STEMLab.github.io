@@ -9,7 +9,7 @@ image:
   feature:
   teaser:
 ---
-
+<div class="archive-wrap">
 <div class="tiles">
 {% assign members = site.categories.members | group_by: "position" %}
 {% for position in site.members-order %}
@@ -43,10 +43,16 @@ image:
 		
 {% endfor %}
 </div><!-- /.tiles -->
+      <article class="tile"><h2>Accomplished</h2></article>
+</div><!-- /.archive-wrap -->
 
 
+<div class="archive-wrap">
+      <article class="tile"><h2>Graduated Student</h2></article>
+</div><!-- /.archive-wrap -->
+
+<div class="archive-wrap">
 <div class="tiles">
-</br> </br> <h3> Graduated Student </h3>
 {% assign grad = site.categories.graduated %}
 {% for post in grad %}
 <div class="tile">
@@ -75,3 +81,4 @@ image:
 
 
 </div><!-- /.tiles -->
+</div><!-- /.archive-wrap -->
