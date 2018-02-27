@@ -42,6 +42,17 @@ owner:
     ad-slot:
   disqus-shortname:
 
+# members order
+members-order:
+ - professor
+ - postdoctor
+ - phd
+ - master
+ - staff
+ - parttime
+ - internship
+ - undergraduated
+
 # Scholar settings
 scholar:
   style: /_publications/stem_apa.csl

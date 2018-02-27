@@ -34,7 +34,7 @@ Here are setting steps.
 3. gem install jekyll
 4. sudo apt install jekyll
 5. sudo apt install nodejs
-6. sudo apt-get ruby-dev
+6. sudo apt-get install ruby-dev
 7. sudo gem install github-pages
 8. sudo bundle update
 
