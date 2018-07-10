@@ -11,10 +11,6 @@ image:
 ---
 
 <div class="archive-wrap">
-      <article class="tile"><h1>PROJECT PAGE IS UNDER CONSTRUCTION</h1></article>
-</div><!-- /.archive-wrap -->
-
-<div class="archive-wrap">
       <article class="tile"><h2>In progress</h2></article>
 </div><!-- /.archive-wrap -->
 
