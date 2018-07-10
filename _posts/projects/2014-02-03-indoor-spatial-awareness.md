@@ -1,7 +1,7 @@
 ---
 layout: media
 title: " Indoor Spatial Awareness (2007 ~ )"
-categories: project
+categories: project_old
 excerpt: ""
 ads: false
 share: false
