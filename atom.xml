@@ -1,137 +1,50 @@
-<?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom">
-<generator uri="http://jekyllrb.com" version="3.0.1">Jekyll</generator>
-<link href="/atom.xml" rel="self" type="application/atom+xml" />
-<link href="/" rel="alternate" type="text/html" />
-<updated>2017-09-12T19:07:48+09:00</updated>
-<id>/</id>
-<subtitle>Spatio Temporal Databases Laboratory site</subtitle>
-<entry>
-<title>Publications English</title>
-<link href="/publications/publications-en/" rel="alternate" type="text/html" title="Publications English" />
-<published>2017-09-08T00:00:00+09:00</published>
-<updated>2017-09-08T00:00:00+09:00</updated>
-<id>/publications/publications-en</id>
-<content type="html" xml:base="/publications/publications-en/">&lt;p&gt;Hyung-Gyu Ryoo, Soojin Kim, Taehoon Kim, Donguk Seo and Ki-Joune Li, “Generation of moving object trajectories in indoor space”, Proceedings of the Eighth ACM SIGSPATIAL International Workshop on Indoor Spatial Awareness, October 31 - November 3, 2016. San Francisco, CA, USA&lt;/p&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="http://jekyllrb.com" version="3.4.3">Jekyll</generator><link href="/web/atom.xml" rel="self" type="application/atom+xml" /><link href="/web/" rel="alternate" type="text/html" /><updated>2018-07-10T16:39:57+09:00</updated><id>/web/</id><title type="html">STEMLab</title><subtitle>Spatio Temporal Databases Laboratory site</subtitle><entry><title type="html">Generation Indoor Standard Document from Triangle Mesh data</title><link href="/web/project/tm2in/" rel="alternate" type="text/html" title="Generation Indoor Standard Document from Triangle Mesh data" /><published>2018-07-10T00:00:00+09:00</published><updated>2018-07-10T00:00:00+09:00</updated><id>/web/project/tm2in</id><content type="html" xml:base="/web/project/tm2in/">&lt;h2 id=&quot;description&quot;&gt;Description&lt;/h2&gt;
 
-&lt;p&gt;Joon-Seok Kim and Ki-Joune Li, “Location K-anonymity in indoor spaces.” Geoinformatica 20.3, 2016: 415-451.&lt;/p&gt;
+&lt;p&gt;Generate appropriate Solid geometry for Indoor Map from Triangle Mesh data&lt;/p&gt;
 
-&lt;p&gt;Hyung-Gyu Ryoo, Taehoon Kim, and Ki-Joune Li, “Comparison between two OGC standards for indoor space: CityGML and IndoorGML.” Proceedings of the Seventh ACM SIGSPATIAL International Workshop on Indoor Spatial Awareness. ACM, November 3-6, 2015. Seattle, WA, USA&lt;/p&gt;
+&lt;h2 id=&quot;source-code&quot;&gt;Source code&lt;/h2&gt;
 
-&lt;p&gt;Bo Geun Kim, Ki-Joune Li, and Hae-Kyong Kang. “Generation of Indoor Network by Crowdsourcing.” Journal of Korea Spatial Information Society 23.1 (2015): 49-57.&lt;/p&gt;
+&lt;p&gt;Github : &lt;a href=&quot;http://github.com/STEMLab/TM2IN&quot;&gt;http://github.com/STEMLab/TM2IN&lt;/a&gt;&lt;/p&gt;
 
-&lt;p&gt;Joon-Seok Kim, Yangsoo Han and Ki-Joune Li, “K-Anonymity in Indoor Spaces through Hierarchical Graphs”, Proceedings of ACM SIGSPATIAL GIS ’12, November 6-9, 2012. Redondo Beach, CA, USA&lt;/p&gt;
+&lt;h2 id=&quot;authors&quot;&gt;Authors&lt;/h2&gt;
 
-&lt;p&gt;Daesung Jang, Joon-Seok Kim, Chi-Hyun Joo and Ki-Joune Li, “Overlapping and Synchronizing Two Worlds”, Proceedings of ACM SIGSPATIAL GIS ’11, November 1-4, 2011. Chicago, IL, USA&lt;/p&gt;
+&lt;p&gt;Dongmin Kim, Pusan National University, &lt;a href=&quot;mailto:dongmin.kim@pnu.edu&quot;&gt;dongmin.kim@pnu.edu&lt;/a&gt;&lt;/p&gt;
 
-&lt;p&gt;Ho-Chul Kim, Oje Kwon and Ki-Joune Li, “Spatial and Spatiotemporal Analysis of Soccer”, Proceedings of ACM SIGSPATIAL GIS ’11, November 1-4, 2011. Chicago, IL, USA&lt;/p&gt;
+&lt;h2 id=&quot;publications&quot;&gt;Publications&lt;/h2&gt;</content><author><name></name></author><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="/web/%7B%22feature%22=%3Enil,%20%22teaser%22=%3Enil,%20%22credit%22=%3Enil,%20%22creditlink%22=%3Enil%7D" /></entry><entry><title type="html">Tae-hoon Kim</title><link href="/web/members/taehoon/" rel="alternate" type="text/html" title="Tae-hoon Kim" /><published>2018-02-27T00:00:00+09:00</published><updated>2018-02-27T00:00:00+09:00</updated><id>/web/members/taehoon</id><content type="html" xml:base="/web/members/taehoon/">&lt;div&gt;&lt;img style=&quot;width: 45%; height: 30%&quot; src=&quot;/web/images/thkim_feature.jpg&quot; alt=&quot;feature&quot; /&gt;&lt;/div&gt;
 
-&lt;p&gt;Oje Kwon and Ki-Joune Li, “Progressive Spatial Join for Polygon Data Stream”, Proceedings of ACM SIGSPATIAL GIS ’11, November 1-4, 2011. Chicago, IL, USA&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Position:&lt;/strong&gt; Ph.D Student &lt;br /&gt;
+&lt;strong&gt;Department:&lt;/strong&gt; Department of Electrical and Computer Engineering &lt;br /&gt;
+&lt;strong&gt;Degrees:&lt;/strong&gt; &lt;br /&gt;&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;In Ph.D., Department of Electrical and Computer Engineering, Pusan National University, South Korea, 2015-current &lt;br /&gt;&lt;/li&gt;
+  &lt;li&gt;Master of Engineering, Department of Electrical and Computer Engineering, Pusan National University, Busan, South Korea, 2013-2015 &lt;br /&gt;&lt;/li&gt;
+  &lt;li&gt;Bachelor of Engineering, Department of Computer Science and Engineering, Pusan National University, Busan, South Korea, 2007-2013 &lt;br /&gt;&lt;/li&gt;
+&lt;/ul&gt;
 
-&lt;p&gt;Hye-Young Kang, Joon-Seok Kim, and Ki-Joune Li, “sTrack: tracking in indoor symbolic space with RFID sensors”, Proceedings of ACM SIGSpatial Conf. 2010, pp.502-505, San Jose, USA, 2010&lt;/p&gt;
+&lt;h2 id=&quot;contacts&quot;&gt;Contacts&lt;/h2&gt;
 
-&lt;p&gt;Ki-Joune Li and Jiyeong Lee, “Indoor Spatial Awareness Initiative and Standard for Indoor Spatial Data ”, Proceedings of IROS 2010 Workshop on Standardization for Service Robot, October 18, 2010, Taiwan&lt;/p&gt;
+&lt;p&gt;Tel : +82-51-510-2876 &lt;br /&gt;
+E-mail : taehoon.kim@pnu.edu &lt;br /&gt;&lt;/p&gt;
 
-&lt;p&gt;Oje Kwon, Yong-Soo Song, Jae-Hun Kim and Ki-Joune Li, “SCONSTREAM: A Spatial Context Stream Processing System”, Proceedings of the 2010 International Conference on Computational Science and Its Applications, March 23, pp.165 (ICCSA 2010)&lt;/p&gt;
+&lt;h2 id=&quot;research-interests&quot;&gt;Research Interests&lt;/h2&gt;
 
-&lt;p&gt;Hye-Young Kang, Joon-Seok Kim, Ki-Joune Li, and Jung-Rae Hwang, “Similarity Measures for Trajectory of Moving Objects in Cellular Space”, Proc. ACM SAC 2009, pp.1325-1330&lt;/p&gt;
-
-&lt;p&gt;Joon-Seok Kim, Hye-Young Kang, and Ki-Joune Li, “Topology of the Prism Model for 3D Indoor Spatial Objects”, Proc. International Workshop on Indoor Spatial Awareness 2009, May 18, Taipei Taiwan&lt;/p&gt;
-
-&lt;p&gt;Do-Hyun Kim, Kyoung-Ho Choi, Kyeong Tae Kim, and Ki-Joune Li, “A Feasibility Study on Crash Avoidance at Four-Way Stop-Sign-Controlled Intersections Using Wireless Sensor Networks”, IEICE Trans. of Fundamentals of Electronics, Communications and Computer Sciences, Volume E92-D No.5, May 2009&lt;/p&gt;
-
-&lt;p&gt;Ki-Joune Li, “Indoor Space: A New Notion of Space”, Proceedings of W2GIS 2008, LNCS 5373, pp.1-3&lt;/p&gt;
-
-&lt;p&gt;Joon-Seok Kim, Tae-Hoon Lee, and Ki-Joune Li, “Prism Geometry: Simple and Efficient 3-D Spatial Model”, Proceedings of International Workshop on 3D Geo-Info. 2008, pp.75~81&lt;/p&gt;
-
-&lt;p&gt;Joon-Seok Kim, Kyoung-Sook Kim, and Ki-Joune Li, “Continuous perspective query processing for 3d objects on road networks”, Proc. Int. Symposium on Web and Wireless GIS, 2007, Cardiff, UK&lt;/p&gt;
-
-&lt;p&gt;Hae-Kyong Kang, Ki-Joune Li, and Min-Soo Kim, “A framewpork for dynamic updates of map data in mobile devices”, Int. J. Web Engineering and Technology, Vol.3, No. 2, pp.176~295&lt;/p&gt;
-
-&lt;p&gt;Jung-Rae Hwang, Hye-Young Kang, and Ki-Joune Li, “Searching for Similar Trajectories on Road Networks using Spatiotemporal Similarity”, Tenth East-European Conference on Advances in Databases and Information Systems 2006, Lecture Notes in Compter Science 4152, pp.282 ~ 295&lt;/p&gt;
-
-&lt;p&gt;Oje Kwon, Sang-Hyun Lee, Joon-Seok Kim, Min-Soo Kim, and Ki-Joune Li, “Collision Prediction at Intersection in Sensor Network Environment”, The IEEE 9th International Conference on Intelligent Transportation Systems 2006 , IEEE Intelligent Transportation Systems 2006 Proceedings, pp. 0982 ~ 0987&lt;/p&gt;
-
-&lt;p&gt;Kyoung-Sook Kim, Mario A. Lopez, Scott Leutenegger, and Ki-Joune Li, “A Network-Based Indexing Method for Trajectories of Moving Objects”, ADVIS 2006, Lecture Notes in Compter Science 4243, pp. 344-353&lt;/p&gt;
-
-&lt;p&gt;Hye-Young Kang, Jung-Soo Kim, and Ki-Joune Li, “Indexing Moving Objects on Road Networks in P2P and Broadcasting Environments”, Web and Wireless Geographical Information Systems 2006 , Lecture Notes in Compter Science 4295, pp.227 ~ 236&lt;/p&gt;
-
-&lt;p&gt;Chan-Hyun Kang, Jung-Rea Hwang, and Ki-Joune Li, “Trajectory analysis for soccer player”, Spatial and Spatio-temporal Data Mining (SSTDM), the IEEE Computer Society Press&lt;/p&gt;
-
-&lt;p&gt;Christian S. Jensen, Ki-Joune Li, Stardas Pakalnis, and Simonas Saltenis, “advanced tracking of vehicles”, 5th European Congress on ITS, Hannover, Germany, June 2004&lt;/p&gt;
-
-&lt;p&gt;Hae-Kyong Kang and Ki-Joune Li, “A Framework for Dynamic Updates of Map Data on Mobile Devices”, 5th International Workshop on Web and wireless Geographical Information Systems, Lecture Notes in Compter Science 3833, pp. 66-77&lt;/p&gt;
-
-&lt;p&gt;Hae-Kyong Kang and Ki-Joune Li, “Assessing Topological Consistency for Collapse Operation in Generalization of Spatial Databases”, 2nd International Workshop on Conceptual Modeling for Geographic Information Systems, Lecture Notes in Computer Science 3770, pp. 249-258&lt;/p&gt;
-
-&lt;p&gt;Jung-Rae Hwang, Hye-Yeong Kang and Ki-Joune Li, “Spatio-Temporal Similarity Analysis between Trajectories on Road Network”, 2nd International Workshop on Conceptual Modeling for Geographic Information Systems&lt;/p&gt;
-
-&lt;p&gt;Tae-Wan Kim, Hae-Kyong Kang, and Ki-Joune Li, “Issues in Building National Geospatial Framework Data: South Korea Case”, 24th Urban Data Management Symposium, Chioggia, Italy, October 2004, pp. 14.55 - 14.62&lt;/p&gt;
-
-&lt;p&gt;Eric Saux, Remy Thibaud, Ki-Joune Li, and Min-Hwan Kim, “A New Approach for a Topographic Feature-Based Characterization of Digital Elevation Data”, 9th ACM-GIS Symposium, Washsington D.C. USA, November 2004, pp. 73-81&lt;/p&gt;
-
-&lt;p&gt;Hye-Young Kang, Bog-Ja Lim, Ki-Joune Li, “P2P Spatial Query Processing by Delaunay Triangulation”, 4th International Workshop on Web and Wireless Geographical Information Systems, pp. 136-150&lt;/p&gt;
-
-&lt;p&gt;Hae-Kyong Kang, Tae-Wan Kim and Ki-Joune Li, “Topological Consistency for Collapse Operation in Multi-scale Databases”, 1st Workshop on Conceptual Modeling for Geographic Information Systems, 2004, Lecture Notes in Computer Science 3289, Springer-Verlag 2004, pp.91-102&lt;/p&gt;
-
-&lt;p&gt;So-Young Hwang, Dong-Hui Yu and Ki-Joune Li, “Embedded System Design for Network Time Synchronization”, Proceedings of International Conference EUC 2004, Aizu-Wakamatsu City, Japan, August 25 - 27, Lecture Notes in Computer Science 3207, Springer-Verlag 2004, pp.96-106, 2004 (ppt)&lt;/p&gt;
-
-&lt;p&gt;Hae-Kyong Kang, Jung-Wook Moon and Ki-Joune Li, “Data Update Across Multi-Scale Databases”, Proc. 12th International Conf. on Geoinformatics, Gävle, Sweden, June 7-9, pp. 749-756, 2004 (ppt)&lt;/p&gt;
-
-&lt;p&gt;Hak-Cheol Kim, Mario A. Lopez, Scott T. Leutenegger and Ki-Joune Li, “Efficient Declustering of Non-Uniform Multidimensional Data using Shifted Hilbert Curves”, 9th International Conference, DASFAA 2004, Lecture Notes in Computer Science 2973 Springer-Verlag 2004, pp.694-707&lt;/p&gt;
-
-&lt;p&gt;So-Young Hwang, Kyung-Sook Kim, Si-Wan Kim, Jung-hyo Kim, Duk-chun Han, Ki-Joune Li, “User System Design for Ubiquitous GIS”, Proc. JCCI Conf., 2004&lt;/p&gt;
-
-&lt;p&gt;Kyoung-Sook Kim, Si-Wan Kim, Tae-Wan Kim and Ki-Joune Li, “Fast indexing and updating method for moving objects on road networks”, Proc. Web and Wireless GIS Workshop, Rome, Italy, November 2003&lt;/p&gt;
-
-&lt;p&gt;Tae-Wan Kim, Ki-Joune Li, “A Distance-Based Packing Methode for High Dimensional Data”, Proc 14th Australasian Database Conference, vol17, p135-144, Adelaide, Australia, February 2003.&lt;/p&gt;
-
-&lt;p&gt;Hye-Kyong Kang, Soon-Hee Do and Ki-Joune Li, “Model-Oriented Generalization Rules”, Proc.(in CD) ESRI Conf. San Diego, USA, July, 2001 (html, ppt)&lt;/p&gt;
-
-&lt;p&gt;Hak-Cheol Kim and Ki-Joune Li, “Declustering Spatial Objects by Clustering for Parallel Disks”, Proc. DEXA Conference, Munich, Germany, September 2001&lt;/p&gt;
-
-&lt;p&gt;Jung-Rae Hwang, Ji-Hyeon Oh and Ki-Joune Li, “A Query Transformation Method for Multi-Source Distributed Database Systems”, Proc. 9th ACM-GIS Symposium, Atlanta, USA, November 2001&lt;/p&gt;
-
-&lt;p&gt;Ki-Joune Li, Kia Makki, Nikki Pissinou and Siva Ravada, (Ed), “Advances in Geographic Information Systems”, Proc. 8th ACM GIS Symposium, Washington D.C. USA ACM-Press, November 2000&lt;/p&gt;
-
-&lt;p&gt;Myoung-Ah Kang, Robert Laurini, Ki-Joune Li and S.Servigne, “Indexing field Values in Field Oriented Systems: Interval Quadtree”, Proc. 7th ACM CIKM, pp.335-342, Kansas City, USA, November 1999 (Abstract)&lt;/p&gt;
-
-&lt;p&gt;Robert Laurini, Ki-Joune Li, Sylvie Servigne and Myoung-Ah Kang, “Modeling an Auditory Urban Database With a Field-Oriented Approach”, Journal of Informatica, Vol.23, pp.169-185, 1999 (Abstract)&lt;/p&gt;
-
-&lt;p&gt;Sylvie Servigne, Robert Laurini, Myoung-Ah Kang, and Ki-Joune Li, “First Specifications of an Information System for Urban Soundscape”, Proc. IEEE Conf. Multimedia Computing and Systems, Vol. 2, pp.262-266, Florence Italy. June 1999 (Abstract)&lt;/p&gt;
-
-&lt;p&gt;Sylvie Servigne, Robert Laurini, Myoung-Ah Kang, and Ki-Joune Li, ‘A Prototype of an Information System for Urban Soundscape”, Proc. 21th Conf. Urban Data Management System, Venise Italy, April, 1999&lt;/p&gt;
-
-&lt;p&gt;In-Soo Kang, Tae-Wan Kim, Eun-Jeong Son and Ki-Joune Li, “A Spatial Data Mining Method by Clustering Analysis”, Proc. 6th ACM GIS Symposium, pp.157-158, November 1998 (Abstract)&lt;/p&gt;
-
-&lt;p&gt;In-Soo Kang, Tae-Wan Kim, and Ki-Joune Li, “A Spatial Data Mining Method by Delaunay Triangulation”, Proc. 5th ACM GIS Symposium, pp.35-39, November 1997 (Abstract)&lt;/p&gt;
-
-&lt;p&gt;Mi-Gyung Cho, Hwan-Gyu Cho and Ki-Joune Li,”A Rubber Sheeting Method with Polygon Morphing”, Proc. SDH’96,Vol 1, pp.7A.31-42, August 1996 (Abstract)&lt;/p&gt;
-
-&lt;p&gt;Min-Soo Kim, Yun-Sook Shin, Moon-Jeong Cho and Ki-Joune Li, “A Comparative Study of Spatial Access Methods”, Proc. 3rd ACM GIS Symposium, pp.29-36, June 1995 (abstract)&lt;/p&gt;
-
-&lt;p&gt;Myeong-Ah Kang, Ki-Joune Li, “Query Processing Methods for Connectivity Search in Visual Databases using R+-tree”, Proc. IFIP 3rd Conf. Visual Databases, pp.410-424, Lausanne, Switzerland, March 1995 (Abstract)&lt;/p&gt;
-
-&lt;p&gt;Ki-Joune	Li, NourdineBadji and Robert Laurini, “Vers	les bases de donnees spatio-temporelles-Modelization des objets mobiles”, Proc. 8th Conf. Advanced Databases, Tregastel France, September, 1992&lt;/p&gt;
-
-&lt;p&gt;Ki-Joune Li and Robert Laurini, “The Spatial Locality and Dynamic Clustering Tree in Spatial Database”, Proc. IFIP 2nd Conf. Visual Databases, Budapest Hungary, 1991 (Abstract)&lt;/p&gt;
-
-&lt;p&gt;Ki-Joune	Li and Robert Laurini, “The Spatial Locality and Indexing Method by Dynamic Clustering in System”, Proc. 2nd Conf. Spatial Databases, Lecture Notes in Computer Science No.525 Springer-Verlag, Zurich, Switzerland. 1991 (Abstract)&lt;/p&gt;
-</content>
-</entry>
-<entry>
-<title>Ki-Joune Li</title>
-<link href="/members/professor/" rel="alternate" type="text/html" title="Ki-Joune Li" />
-<published>2016-03-24T00:00:00+09:00</published>
-<updated>2016-03-24T00:00:00+09:00</updated>
-<id>/members/professor</id>
-<content type="html" xml:base="/members/professor/">&lt;div&gt;&lt;img style=&quot;width: 45%; height: 30%&quot; src=&quot;{{ site.baseurl }}/images/{{ page.image.feature }}&quot; alt=&quot;professor_feature&quot; /&gt;&lt;/div&gt;
+&lt;ul&gt;
+  &lt;li&gt;Geographical Information Systems&lt;/li&gt;
+&lt;/ul&gt;</content><author><name></name></author><category term="sample" /><category term="images" /><category term="test" /><summary type="html">Ph.D Student</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="/web/%7B%22feature%22=%3E%22thkim_feature.jpg%22,%20%22teaser%22=%3E%22thkim_teaser.jpg%22%7D" /></entry><entry><title type="html">Ki-Joune Li</title><link href="/web/members/professor/" rel="alternate" type="text/html" title="Ki-Joune Li" /><published>2018-02-27T00:00:00+09:00</published><updated>2018-02-27T00:00:00+09:00</updated><id>/web/members/professor</id><content type="html" xml:base="/web/members/professor/">&lt;div&gt;&lt;img style=&quot;width: 45%; height: 30%&quot; src=&quot;/web/images/professor_feature.jpg&quot; alt=&quot;professor_feature&quot; /&gt;&lt;/div&gt;
 
 &lt;p&gt;&lt;strong&gt;Position:&lt;/strong&gt; Professor, Department of Computer Science and Engineering &lt;br /&gt;
 &lt;strong&gt;Degrees:&lt;/strong&gt; Ph.D (INSA de Lyon France) , M.Sc and B.Sc (Seoul National University) &lt;br /&gt;
 &lt;strong&gt;Profile page:&lt;/strong&gt; &lt;a href=&quot;http://lik.pusan.ac.kr/&quot;&gt;http://lik.pusan.ac.kr/&lt;/a&gt; &lt;br /&gt;&lt;/p&gt;
 
-&lt;p&gt;{% include toc.html %}&lt;/p&gt;
+&lt;nav class=&quot;toc&quot;&gt;
+&lt;ul id=&quot;markdown-toc&quot;&gt;
+  &lt;li&gt;&lt;a href=&quot;#address&quot; id=&quot;markdown-toc-address&quot;&gt;Address&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;#research-interests&quot; id=&quot;markdown-toc-research-interests&quot;&gt;Research Interests&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;#academic-and-professional-activities&quot; id=&quot;markdown-toc-academic-and-professional-activities&quot;&gt;Academic and Professional Activities&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;#other-activities&quot; id=&quot;markdown-toc-other-activities&quot;&gt;Other Activities&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;/nav&gt;
 
 &lt;h2 id=&quot;address&quot;&gt;Address&lt;/h2&gt;
 
@@ -205,94 +118,41 @@ E-mail : lik at pnu.edu &lt;br /&gt;&lt;/p&gt;
   &lt;li&gt;President Award for the Contributions on GIS (2005)&lt;/li&gt;
   &lt;li&gt;ISO/TC211 Member (2006 – present)&lt;/li&gt;
   &lt;li&gt;ISO Project 19154 Project Leader (2008 - 2010)&lt;/li&gt;
-&lt;/ul&gt;
-</content>
-<category term="sample" />
-<category term="images" />
-<category term="test" />
-<summary>Professor</summary>
-</entry>
-<entry>
-<title>Joon-Seok Kim</title>
-<link href="/members/joon-seok/" rel="alternate" type="text/html" title="Joon-Seok Kim" />
-<published>2016-03-23T00:00:00+09:00</published>
-<updated>2016-03-23T00:00:00+09:00</updated>
-<id>/members/joon seok</id>
-<content type="html" xml:base="/members/joon-seok/">&lt;div&gt;&lt;img style=&quot;width: 45%; height: 30%&quot; src=&quot;{{ site.baseurl }}/images/{{ page.image.feature }}&quot; alt=&quot;kimjs_feature&quot; /&gt;&lt;/div&gt;
+&lt;/ul&gt;</content><author><name></name></author><category term="sample" /><category term="images" /><category term="test" /><summary type="html">Professor</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="/web/%7B%22feature%22=%3E%22professor_feature.jpg%22,%20%22teaser%22=%3E%22professor_teaser.jpg%22%7D" /></entry><entry><title type="html">Ju-hyun Ham</title><link href="/web/members/ju_hyun/" rel="alternate" type="text/html" title="Ju-hyun Ham" /><published>2018-02-27T00:00:00+09:00</published><updated>2018-02-27T00:00:00+09:00</updated><id>/web/members/ju_hyun</id><content type="html" xml:base="/web/members/ju_hyun/">&lt;div&gt;&lt;img style=&quot;width: 45%; height: 30%&quot; src=&quot;/web/images/hjh_feature.JPG&quot; alt=&quot;feature&quot; /&gt;&lt;/div&gt;
 
-&lt;p&gt;&lt;strong&gt;Position:&lt;/strong&gt; Postdoctoral research fellow, Department of Computer Science and Engineering &lt;br /&gt;
-&lt;strong&gt;Education:&lt;/strong&gt;&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;PhD of Engineering, Department of Electrical and Computer Engineering, Pusan National University, South Korea, 2016 (&lt;a href=&quot;http://joon-seok.github.io/Thesis/&quot;&gt;link&lt;/a&gt;)&lt;/li&gt;
-  &lt;li&gt;Master of Engineering, Department of Computer Engineering, Pusan National University, Busan, South Korea, 2007&lt;/li&gt;
-  &lt;li&gt;Bachelor of Engineering, Department of Computer Science and Engineering, Pusan National University, Busan, South Korea, 2005&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&quot;mailing-address&quot;&gt;Mailing Address&lt;/h2&gt;
-
-&lt;p&gt;Department of Computer Engineering,&lt;br /&gt;
-Pusan National University,&lt;br /&gt;
-2, Busandaehak-ro 63beon-gil, Geumjeong-gu,&lt;br /&gt;
-Busan 46241, South Korea&lt;/p&gt;
-
-&lt;h2 id=&quot;contact-information&quot;&gt;Contact Information&lt;/h2&gt;
-&lt;p&gt;Phone : +82-51-510-2876 &lt;br /&gt;
-Fax : +82-51-582-1182 &lt;br /&gt;
-E-mail : joonseok@pnu.edu &lt;br /&gt;
-Homepage: &lt;a href=&quot;http://isel.cs.pusan.ac.kr/~kimjs/&quot;&gt;http://isel.cs.pusan.ac.kr/~kimjs/&lt;/a&gt;&lt;/p&gt;
-</content>
-<category term="sample" />
-<category term="images" />
-<category term="test" />
-<summary>Postdoctoral researcher</summary>
-</entry>
-<entry>
-<title>Tae-hoon Kim</title>
-<link href="/members/taehoon/" rel="alternate" type="text/html" title="Tae-hoon Kim" />
-<published>2016-03-22T00:00:00+09:00</published>
-<updated>2016-03-22T00:00:00+09:00</updated>
-<id>/members/taehoon</id>
-<content type="html" xml:base="/members/taehoon/">&lt;div&gt;&lt;img style=&quot;width: 45%; height: 30%&quot; src=&quot;{{ site.baseurl }}/images/{{ page.image.feature }}&quot; alt=&quot;feature&quot; /&gt;&lt;/div&gt;
-
-&lt;p&gt;&lt;strong&gt;Position:&lt;/strong&gt; Ph.D Student &lt;br /&gt;
-&lt;strong&gt;Department:&lt;/strong&gt; Department of Electrical and Computer Engineering &lt;br /&gt;
-&lt;strong&gt;Degrees:&lt;/strong&gt; &lt;br /&gt;
-* In Ph.D., Department of Electrical and Computer Engineering, Pusan National University, South Korea, 2015-current &lt;br /&gt;
-* Master of Engineering, Department of Electrical and Computer Engineering, Pusan National University, Busan, South Korea, 2013-2015 &lt;br /&gt;
-* Bachelor of Engineering, Department of Computer Science and Engineering, Pusan National University, Busan, South Korea, 2007-2013 &lt;br /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Position:&lt;/strong&gt; Staff &lt;br /&gt;&lt;/p&gt;
 
 &lt;h2 id=&quot;contacts&quot;&gt;Contacts&lt;/h2&gt;
 
-&lt;p&gt;Tel : +82-51-510-2876 &lt;br /&gt;
-E-mail : taehoon.kim@pnu.edu &lt;br /&gt;&lt;/p&gt;
+&lt;p&gt;E-mail : &lt;a href=&quot;mailto:hamju@pusan.ac.kr&quot;&gt;hamju@pusan.ac.kr&lt;/a&gt; &lt;br /&gt;&lt;/p&gt;</content><author><name></name></author><category term="sample" /><category term="images" /><category term="test" /><summary type="html">Staff</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="/web/%7B%22feature%22=%3E%22hjh_feature.JPG%22,%20%22teaser%22=%3E%22hjh_teaser.JPG%22%7D" /></entry><entry><title type="html">Hyemi Jeong</title><link href="/web/members/hyemi/" rel="alternate" type="text/html" title="Hyemi Jeong" /><published>2018-02-27T00:00:00+09:00</published><updated>2018-02-27T00:00:00+09:00</updated><id>/web/members/hyemi</id><content type="html" xml:base="/web/members/hyemi/">&lt;div&gt;&lt;img style=&quot;width: 45%; height: 30%&quot; src=&quot;/web/images/hyemi_feature.jpg&quot; alt=&quot;feature&quot; /&gt;&lt;/div&gt;
+
+&lt;p&gt;&lt;strong&gt;Position:&lt;/strong&gt; Master student &lt;br /&gt;
+&lt;strong&gt;Department:&lt;/strong&gt; Department of Electrical and Computer Engineering &lt;br /&gt;
+&lt;strong&gt;Degrees:&lt;/strong&gt; &lt;br /&gt;&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;BSc in Computer Science Engineering &lt;br /&gt;
+Pusan National University 2013 - 2016&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;contacts&quot;&gt;Contacts&lt;/h2&gt;
+
+&lt;p&gt;E-mail : hyemi.jeong@pusan.ac.kr &lt;br /&gt;&lt;/p&gt;
 
 &lt;h2 id=&quot;research-interests&quot;&gt;Research Interests&lt;/h2&gt;
 
 &lt;ul&gt;
   &lt;li&gt;Geographical Information Systems&lt;/li&gt;
-&lt;/ul&gt;
-</content>
-<category term="sample" />
-<category term="images" />
-<category term="test" />
-<summary>Ph.D Student</summary>
-</entry>
-<entry>
-<title>Hyung-Gyu Ryoo</title>
-<link href="/members/hgryoo/" rel="alternate" type="text/html" title="Hyung-Gyu Ryoo" />
-<published>2016-03-22T00:00:00+09:00</published>
-<updated>2016-03-22T00:00:00+09:00</updated>
-<id>/members/hgryoo</id>
-<content type="html" xml:base="/members/hgryoo/">&lt;div&gt;&lt;img style=&quot;width: 45%; height: 30%&quot; src=&quot;{{ site.baseurl }}/images/{{ page.image.feature }}&quot; alt=&quot;feature&quot; /&gt;&lt;/div&gt;
+&lt;/ul&gt;</content><author><name></name></author><category term="sample" /><category term="images" /><category term="test" /><summary type="html">Master student</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="/web/%7B%22feature%22=%3E%22hyemi_feature.jpg%22,%20%22teaser%22=%3E%22hyemi_teaser.jpg%22%7D" /></entry><entry><title type="html">Hyung-Gyu Ryoo</title><link href="/web/members/hgryoo/" rel="alternate" type="text/html" title="Hyung-Gyu Ryoo" /><published>2018-02-27T00:00:00+09:00</published><updated>2018-02-27T00:00:00+09:00</updated><id>/web/members/hgryoo</id><content type="html" xml:base="/web/members/hgryoo/">&lt;div&gt;&lt;img style=&quot;width: 45%; height: 30%&quot; src=&quot;/web/images/hgryu_feature.jpg&quot; alt=&quot;feature&quot; /&gt;&lt;/div&gt;
 
 &lt;p&gt;&lt;strong&gt;Position:&lt;/strong&gt; Ph.D Student &lt;br /&gt;
 &lt;strong&gt;Department:&lt;/strong&gt; Department of Electrical and Computer Engineering &lt;br /&gt;
-&lt;strong&gt;Degrees:&lt;/strong&gt; &lt;br /&gt;
-* Integrated MSc &amp;amp; PhD in Geographical Information Systems &lt;br /&gt;
-Pusan National University 2015 - current
-* BSc in Computer Science and Engineering &lt;br /&gt;
-Pusan National University 2011 - 2015&lt;/p&gt;
+&lt;strong&gt;Degrees:&lt;/strong&gt; &lt;br /&gt;&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;Integrated MSc &amp;amp; PhD in Geographical Information Systems &lt;br /&gt;
+Pusan National University 2015 - current&lt;/li&gt;
+  &lt;li&gt;BSc in Computer Science and Engineering &lt;br /&gt;
+Pusan National University 2011 - 2015&lt;/li&gt;
+&lt;/ul&gt;
 
 &lt;h2 id=&quot;contacts&quot;&gt;Contacts&lt;/h2&gt;
 
@@ -303,161 +163,53 @@ Homepage : hgryoo.github.io&lt;/p&gt;
 
 &lt;ul&gt;
   &lt;li&gt;Geographical Information Systems&lt;/li&gt;
+&lt;/ul&gt;</content><author><name></name></author><category term="sample" /><category term="images" /><category term="test" /><summary type="html">Ph.D Student</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="/web/%7B%22feature%22=%3E%22hgryu_feature.jpg%22,%20%22teaser%22=%3E%22hgryu_teaser.jpg%22%7D" /></entry><entry><title type="html">Byeong-gon Kim</title><link href="/web/members/gargoni/" rel="alternate" type="text/html" title="Byeong-gon Kim" /><published>2018-02-27T00:00:00+09:00</published><updated>2018-02-27T00:00:00+09:00</updated><id>/web/members/gargoni</id><content type="html" xml:base="/web/members/gargoni/">&lt;div&gt;&lt;img style=&quot;width: 45%; height: 30%&quot; src=&quot;/web/images/gargoni_feature.jpg&quot; alt=&quot;feature&quot; /&gt;&lt;/div&gt;
+
+&lt;p&gt;&lt;strong&gt;Position:&lt;/strong&gt; Master Student &lt;br /&gt;
+&lt;strong&gt;Department:&lt;/strong&gt; Department of Electrical and Computer Engineering &lt;br /&gt;
+&lt;strong&gt;Degrees:&lt;/strong&gt; &lt;br /&gt;&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;BSc in Computer Science Engineering &lt;br /&gt;
+Pusan National University 2012.03 - 2018.02&lt;/li&gt;
 &lt;/ul&gt;
-</content>
-<category term="sample" />
-<category term="images" />
-<category term="test" />
-<summary>Ph.D Student</summary>
-</entry>
-<entry>
-<title>SooJin Kim</title>
-<link href="/members/soojin/" rel="alternate" type="text/html" title="SooJin Kim" />
-<published>2016-03-21T00:00:00+09:00</published>
-<updated>2016-03-21T00:00:00+09:00</updated>
-<id>/members/soojin</id>
-<content type="html" xml:base="/members/soojin/">&lt;div&gt;&lt;img style=&quot;width: 45%; height: 30%&quot; src=&quot;{{ site.baseurl }}/images/{{ page.image.feature }}&quot; alt=&quot;feature&quot; /&gt;&lt;/div&gt;
+
+&lt;h2 id=&quot;contacts&quot;&gt;Contacts&lt;/h2&gt;
+&lt;p&gt;E-mail : byeonggon@pusan.ac.kr&lt;/p&gt;</content><author><name></name></author><category term="sample" /><category term="images" /><category term="test" /><summary type="html">Master Student</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="/web/%7B%22feature%22=%3E%22gargoni_feature.jpg%22,%20%22teaser%22=%3E%22gargoni_teaser.jpg%22%7D" /></entry><entry><title type="html">Yongbok Choi</title><link href="/web/members/dragonbok/" rel="alternate" type="text/html" title="Yongbok Choi" /><published>2018-02-27T00:00:00+09:00</published><updated>2018-02-27T00:00:00+09:00</updated><id>/web/members/dragonbok</id><content type="html" xml:base="/web/members/dragonbok/">&lt;div&gt;&lt;img style=&quot;width: 45%; height: 30%&quot; src=&quot;/web/images/yongbok_feature.jpg&quot; alt=&quot;feature&quot; /&gt;&lt;/div&gt;
+
+&lt;p&gt;&lt;strong&gt;Position:&lt;/strong&gt; Master Student &lt;br /&gt;
+&lt;strong&gt;Department:&lt;/strong&gt; Department of Electrical and Computer Engineering &lt;br /&gt;
+&lt;strong&gt;Degrees:&lt;/strong&gt; &lt;br /&gt;&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;BSc in Computer Science Engineering &lt;br /&gt;
+Pusan National University 2012.03 - 2018.02&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;contacts&quot;&gt;Contacts&lt;/h2&gt;
+&lt;p&gt;Email : yongbok@pusan.ac.kr&lt;/p&gt;</content><author><name></name></author><category term="sample" /><category term="images" /><category term="test" /><summary type="html">Master Student</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="/web/%7B%22feature%22=%3E%22yongbok_feature.jpg%22,%20%22teaser%22=%3E%22yongbok_teaser.jpg%22%7D" /></entry><entry><title type="html">Dongmin Kim</title><link href="/web/members/dongmin/" rel="alternate" type="text/html" title="Dongmin Kim" /><published>2018-02-27T00:00:00+09:00</published><updated>2018-02-27T00:00:00+09:00</updated><id>/web/members/dongmin</id><content type="html" xml:base="/web/members/dongmin/">&lt;div&gt;&lt;img style=&quot;width: 45%; height: 30%&quot; src=&quot;/web/images/dongmin_feature.jpg&quot; alt=&quot;feature&quot; /&gt;&lt;/div&gt;
 
 &lt;p&gt;&lt;strong&gt;Position:&lt;/strong&gt; Master student &lt;br /&gt;
 &lt;strong&gt;Department:&lt;/strong&gt; Department of Electrical and Computer Engineering &lt;br /&gt;
-&lt;strong&gt;Degrees:&lt;/strong&gt; &lt;br /&gt;
-* BSc in Computer Science Engineering &lt;br /&gt;
-Pusan National University 2012-2016&lt;/p&gt;
+&lt;strong&gt;Degrees:&lt;/strong&gt; &lt;br /&gt;&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;M.S. in Computer Science and Engineering,
+Pusan National University, 2017 - current &lt;br /&gt;&lt;/li&gt;
+  &lt;li&gt;B.S. in Computer Science and Engineering,
+Pusan National University, 2013 - 2017 &lt;br /&gt;&lt;/li&gt;
+&lt;/ul&gt;
 
 &lt;h2 id=&quot;contacts&quot;&gt;Contacts&lt;/h2&gt;
 
-&lt;p&gt;Tel : + 010-4086-8013 &lt;br /&gt;
-E-mail : soojin.kim@pusan.ac.kr &lt;br /&gt;&lt;/p&gt;
+&lt;p&gt;E-mail : dongmin.kim@pusan.ac.kr &lt;br /&gt;
+Github : http://github.com/cocoslime&lt;/p&gt;
 
 &lt;h2 id=&quot;research-interests&quot;&gt;Research Interests&lt;/h2&gt;
 
 &lt;ul&gt;
   &lt;li&gt;Geographical Information Systems&lt;/li&gt;
-&lt;/ul&gt;
-</content>
-<category term="sample" />
-<category term="images" />
-<category term="test" />
-<summary>Master student</summary>
-</entry>
-<entry>
-<title>Dongmin Kim</title>
-<link href="/members/dongmin/" rel="alternate" type="text/html" title="Dongmin Kim" />
-<published>2016-03-20T00:00:00+09:00</published>
-<updated>2016-03-20T00:00:00+09:00</updated>
-<id>/members/dongmin</id>
-<content type="html" xml:base="/members/dongmin/">&lt;div&gt;&lt;img style=&quot;width: 45%; height: 30%&quot; src=&quot;{{ site.baseurl }}/images/{{ page.image.feature }}&quot; alt=&quot;feature&quot; /&gt;&lt;/div&gt;
+  &lt;li&gt;Triangle Mesh&lt;/li&gt;
+  &lt;li&gt;Deep Learning for Point-cloud&lt;/li&gt;
+&lt;/ul&gt;</content><author><name></name></author><category term="sample" /><category term="images" /><category term="test" /><summary type="html">Master student</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="/web/%7B%22feature%22=%3E%22dongmin_feature.jpg%22,%20%22teaser%22=%3E%22dongmin_teaser.jpg%22%7D" /></entry><entry><title type="html">Do-Hoon Kang</title><link href="/web/members/dohoon/" rel="alternate" type="text/html" title="Do-Hoon Kang" /><published>2018-02-27T00:00:00+09:00</published><updated>2018-02-27T00:00:00+09:00</updated><id>/web/members/dohoon</id><content type="html" xml:base="/web/members/dohoon/">&lt;div&gt;&lt;img style=&quot;width: 45%; height: 30%&quot; src=&quot;/web/images/dohoon_feature.jpg&quot; alt=&quot;feature&quot; /&gt;&lt;/div&gt;
 
-&lt;p&gt;&lt;strong&gt;Position:&lt;/strong&gt; Master student &lt;br /&gt;
-&lt;strong&gt;Department:&lt;/strong&gt; Department of Electrical and Computer Engineering &lt;br /&gt;
-&lt;strong&gt;Degrees:&lt;/strong&gt; &lt;br /&gt;
-* BSc in Computer Science Engineering &lt;br /&gt;
-Pusan National University 2013 - 2016&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Position:&lt;/strong&gt; Staff &lt;br /&gt;&lt;/p&gt;
 
-&lt;h2 id=&quot;contacts&quot;&gt;Contacts&lt;/h2&gt;
-
-&lt;p&gt;Tel : + 010-3874-8962 &lt;br /&gt;
-E-mail : dongmin.kim@pusan.ac.kr &lt;br /&gt;&lt;/p&gt;
-
-&lt;h2 id=&quot;research-interests&quot;&gt;Research Interests&lt;/h2&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;Geographical Information Systems&lt;/li&gt;
-&lt;/ul&gt;
-</content>
-<category term="sample" />
-<category term="images" />
-<category term="test" />
-<summary>Master student</summary>
-</entry>
-<entry>
-<title>Hyemi Jeong</title>
-<link href="/members/hyemi/" rel="alternate" type="text/html" title="Hyemi Jeong" />
-<published>2016-03-19T00:00:00+09:00</published>
-<updated>2016-03-19T00:00:00+09:00</updated>
-<id>/members/hyemi</id>
-<content type="html" xml:base="/members/hyemi/">&lt;div&gt;&lt;img style=&quot;width: 45%; height: 30%&quot; src=&quot;{{ site.baseurl }}/images/{{ page.image.feature }}&quot; alt=&quot;feature&quot; /&gt;&lt;/div&gt;
-
-&lt;p&gt;&lt;strong&gt;Position:&lt;/strong&gt; Master student &lt;br /&gt;
-&lt;strong&gt;Department:&lt;/strong&gt; Department of Electrical and Computer Engineering &lt;br /&gt;
-&lt;strong&gt;Degrees:&lt;/strong&gt; &lt;br /&gt;
-* BSc in Computer Science Engineering &lt;br /&gt;
-Pusan National University 2013 - 2016&lt;/p&gt;
-
-&lt;h2 id=&quot;contacts&quot;&gt;Contacts&lt;/h2&gt;
-
-&lt;p&gt;E-mail : hyemi.jeong@pusan.ac.kr &lt;br /&gt;&lt;/p&gt;
-
-&lt;h2 id=&quot;research-interests&quot;&gt;Research Interests&lt;/h2&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;Geographical Information Systems&lt;/li&gt;
-&lt;/ul&gt;
-</content>
-<category term="sample" />
-<category term="images" />
-<category term="test" />
-<summary>Master student</summary>
-</entry>
-<entry>
-<title>Mouna Harrach</title>
-<link href="/members/mouna/" rel="alternate" type="text/html" title="Mouna Harrach" />
-<published>2016-03-18T00:00:00+09:00</published>
-<updated>2016-03-18T00:00:00+09:00</updated>
-<id>/members/mouna</id>
-<content type="html" xml:base="/members/mouna/">&lt;div&gt;&lt;img style=&quot;width: 45%; height: 30%&quot; src=&quot;{{ site.baseurl }}/images/{{ page.image.feature }}&quot; alt=&quot;feature&quot; /&gt;&lt;/div&gt;
-
-&lt;p&gt;&lt;strong&gt;Position:&lt;/strong&gt; Master student &lt;br /&gt;
-&lt;strong&gt;Department:&lt;/strong&gt; Geomatics engineering and geographic sciences &lt;br /&gt;
-&lt;strong&gt;Degrees:&lt;/strong&gt; &lt;br /&gt;
-* Msc in geomatics engineering and geographic sciences 2015 — to date
-* BSc in Mathematics  2010 — 2014 &lt;br /&gt;&lt;/p&gt;
-
-&lt;h2 id=&quot;contacts&quot;&gt;Contacts&lt;/h2&gt;
-
-&lt;p&gt;E-mail : harrach.mouna@hotmail.com &lt;br /&gt;&lt;/p&gt;
-
-&lt;h2 id=&quot;research-interests&quot;&gt;Research Interests&lt;/h2&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;GIS&lt;/li&gt;
-&lt;/ul&gt;
-</content>
-<category term="sample" />
-<category term="images" />
-<category term="test" />
-<summary>Master student</summary>
-</entry>
-<entry>
-<title>Azamat Bolat</title>
-<link href="/members/azamat/" rel="alternate" type="text/html" title="Azamat Bolat" />
-<published>2016-03-18T00:00:00+09:00</published>
-<updated>2016-03-18T00:00:00+09:00</updated>
-<id>/members/azamat</id>
-<content type="html" xml:base="/members/azamat/">&lt;div&gt;&lt;img style=&quot;width: 45%; height: 30%&quot; src=&quot;{{ site.baseurl }}/images/{{ page.image.feature }}&quot; alt=&quot;feature&quot; /&gt;&lt;/div&gt;
-
-&lt;p&gt;&lt;strong&gt;Position:&lt;/strong&gt; Master student &lt;br /&gt;
-&lt;strong&gt;Department:&lt;/strong&gt; Department of Electrical and Computer Engineering &lt;br /&gt;
-&lt;strong&gt;Degrees:&lt;/strong&gt; &lt;br /&gt;
-* BSc in Information Systems &lt;br /&gt;
-International Information Techonologies University 2012 - 2016 &lt;br /&gt;
-Almaty, Kazakhstan&lt;/p&gt;
-
-&lt;h2 id=&quot;contacts&quot;&gt;Contacts&lt;/h2&gt;
-
-&lt;p&gt;Tel : +7 707 743 17 49 &lt;br /&gt;
-E-mail : b.a.bolatuly@gmail.com &lt;br /&gt;
-Homepage : &lt;a target=&quot;_blank&quot; href=&quot;https://bolatuly.github.io&quot;&gt;bolatuly.github.io&lt;/a&gt;&lt;/p&gt;
-
-&lt;h2 id=&quot;research-interests&quot;&gt;Research Interests&lt;/h2&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;Geographical Information Systems&lt;/li&gt;
-&lt;/ul&gt;
-</content>
-<category term="sample" />
-<category term="images" />
-<category term="test" />
-<summary>Master student</summary>
-</entry>
-</feed>
+&lt;h2 id=&quot;contacts&quot;&gt;Contacts&lt;/h2&gt;</content><author><name></name></author><category term="sample" /><category term="images" /><category term="test" /><summary type="html">Staff</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="/web/%7B%22feature%22=%3E%22dohoon_feature.jpg%22,%20%22teaser%22=%3E%22dohoon_teaser.jpg%22%7D" /></entry></feed>
