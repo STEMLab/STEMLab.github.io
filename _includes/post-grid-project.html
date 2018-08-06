@@ -1,6 +1,11 @@
 <article class="tile" itemscope itemtype="http://schema.org/Article">
   <a href="{{ site.baseurl }}{{ post.url }}" title="{{ post.title }}" class="post-teaser">
   {% if post.date %}<p class="entry-date date published"></p>{% endif %}
+  {% if post.image.teaser %}
+<div style="height: 130px; width: 200px; overflow: hidden;"><img src="{{ site.baseurl }}/images/{{ post.image.teaser }}" alt="teaser" itemprop="image"></div>
+{% else %}
+<div style="height: 130px; width: 200px; overflow: hidden;"><img src="{{ site.baseurl }}/images/{{ site.teaser }}" alt="teaser" itemprop="image"></div>
+{% endif %}
   <h2 class="post-title" itemprop="name">{{ post.title }}</h2>
   <p class="post-excerpt" itemprop="description">{{ post.excerpt | strip_html | truncate: 160 }}</p>
 	</a>

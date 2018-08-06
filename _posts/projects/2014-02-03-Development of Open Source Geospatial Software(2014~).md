@@ -6,8 +6,8 @@ excerpt: ""
 ads: false
 share: false
 image:
-  feature:
-  teaser:
+  feature: 
+  teaser: project.jpg
   credit:
   creditlink:
 ---
