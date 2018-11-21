@@ -1,12 +1,12 @@
 ---
 layout: media
-title: "Conversion IndoorGML<->OSM"
+title: "Convert IndoorGML,OSM"
 categories: project
 excerpt: ""
 ads: false
 share: false
 image:
-  feature: projects/osm.jpg
+  teaser: projects/osm.jpg
   credit: 
   creditlink: 
 ---
