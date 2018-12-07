@@ -20,6 +20,6 @@ image:
 Pusan National University 2012.03 - 2018.02
 
 ## Contacts
-Email : yongbok@pusan.ac.kr
+Email : yongbok at pusan.ac.kr
 
 
