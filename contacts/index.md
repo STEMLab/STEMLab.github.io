@@ -13,7 +13,7 @@ share: false
 ---
 
 **Phone:** + 051-510-2876 <br/>
-**Email:** stemlab@pnu.edu <br/>
+**Email:** stemlab at pnu.edu <br/>
 **Address:** Room 422, Center for research and experiment of natural college, Pusan National University,
 2, Busandaehak-ro 63beon-gil, Geumjeong-gu, Busan 46241, Rep. of KOREA
 
